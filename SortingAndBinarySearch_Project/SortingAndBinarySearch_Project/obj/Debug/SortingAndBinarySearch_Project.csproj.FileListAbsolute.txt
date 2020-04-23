@@ -1,0 +1,10 @@
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\bin\Debug\SortingAndBinarySearch_Project.exe.config
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\bin\Debug\SortingAndBinarySearch_Project.exe
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\bin\Debug\SortingAndBinarySearch_Project.pdb
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.csprojAssemblyReference.cache
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.Form1.resources
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.Properties.Resources.resources
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.csproj.GenerateResource.cache
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.csproj.CoreCompileInputs.cache
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.exe
+C:\Users\outmy\source\repos\SortingAndBinarySearch_Project\SortingAndBinarySearch_Project\obj\Debug\SortingAndBinarySearch_Project.pdb
